@@ -14,3 +14,5 @@ This project involves fetching and analyzing historical economic data from Brazi
 - **Programming:** Python (Requests, Pandas, Matplotlib)
 - **Data Processing:** Data cleaning, merging, and transformation using Pandas
 - **Data Visualization:** Line plotting with Matplotlib, dual-axis plotting for comparative analysis
+
+<img width="899" alt="image" src="https://github.com/user-attachments/assets/9109e498-c196-414e-bc03-ff39a71d4215">
